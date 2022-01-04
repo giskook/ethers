@@ -1,0 +1,29 @@
+{
+  "name": "sendtokenone",
+  "version": "1.0.0",
+  "description": "ethers.js部署合约",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^8.1.1",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^5.15.0",
+    "ethereumjs-tx": "^1.3.7",
+    "ethers": "^5.4.7",
+    "request": "^2.88.2",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
